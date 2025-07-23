@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Polar Bears</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="navbar">
+    <a href="index.html">Polar Bears</a>
+    <a href="red-panda.html">Red Pandas</a>
+    <a href="dolphins.html">Dolphins</a>
+  </div>
+  <div class="content">
+    <h1>All About Polar Bears</h1>
+    <p>Polar bears are super cool Arctic animals...</p>
+    <img src="https://nypost.com/wp-content/uploads/sites/2/2019/08/polar-bears-alaska.jpg" alt="Polar Bear">
+    <h2>Facts</h2>
+    <ul>
+      <li>Found in the Arctic</li>
+      <li>Black skin under white fur</li>
+    </ul>
+    <h2>What They Do</h2>
+    <ol>
+      <li>Prey on seals</li>
+    </ol>
+    <p><a href="https://en.wikipedia.org/wiki/Polar_bear">Learn more</a></p>
+  </div>
+</body>
+</html>
