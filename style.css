@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f8fc;
+}
+
+.navbar {
+  background-color: #003366;
+  overflow: hidden;
+  padding: 10px 0;
+}
+
+.navbar.red {
+  background-color: #8b0000;
+}
+
+.navbar.blue {
+  background-color: #0077b6;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #005f99;
+}
+
+.content {
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
